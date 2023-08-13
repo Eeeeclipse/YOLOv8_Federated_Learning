@@ -1,0 +1,8 @@
+# Train/val/test sets
+train: 'C:\research\yolov8\images\trainB'
+val: 'C:\research\yolov8\images\validation'
+test: 'C:\research\yolov8\images\test'
+
+# Classes
+names:
+  0: face
